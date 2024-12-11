@@ -1,0 +1,1 @@
+A partir destes testes que levantei o vetor de calibração que será usado para remover o erro do sistema do calcula da impedância da carga em uma função para isso. Portanto usei esses códigos apenas para retirar os dois arquivos de informação do BNC 50R e BNC 25R.
